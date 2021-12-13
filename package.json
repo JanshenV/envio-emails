@@ -1,0 +1,32 @@
+{
+  "name": "back-integral-envio-emails",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanshenV/back-integral-envio-emails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanshenV/back-integral-envio-emails/issues"
+  },
+  "homepage": "https://github.com/JanshenV/back-integral-envio-emails#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "knex": "^0.95.14",
+    "nodemailer": "^6.7.0",
+    "nodemailer-express-handlebars": "^4.0.0",
+    "nodemon": "^2.0.14",
+    "pg": "^8.7.1",
+    "yup": "^0.32.11",
+    "yup-locales": "^1.2.0"
+  }
+}
